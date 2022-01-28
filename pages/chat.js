@@ -164,7 +164,7 @@ function MessageList(props) {
                                     display: 'inline-block',
                                     marginRight: '8px',
                                 }}
-                                src={`https://github.com/vanessametonini.png`}
+                                src={`https://github.com/PamelaOli.png`}
                             />
                             <Text tag="strong">
                                 {mensagem.de}
