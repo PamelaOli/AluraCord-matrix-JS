@@ -132,7 +132,7 @@ export default function ChatPage() {
                                 }
                             }}
                             placeholder="Insira sua mensagem aqui..."
-                            type="textarea"
+                            type="text"
                             styleSheet={{
                                 width: '100%',
                                 border: '0',
