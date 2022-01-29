@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Divertidamente (pamela)",
+    "name": "Aluracord - O que está pensando? (by Pâmela)",
     "theme": {
         "colors": {
             "primary": {
@@ -29,5 +29,23 @@
                 "999": "#080A0C"
             }
         }
-    }
+    },
+    "stickers": [
+        "https://i.pinimg.com/originals/79/66/24/796624c68ba30a748092f6ce2eedc8a4.gif",
+        "https://i.pinimg.com/originals/3d/07/1d/3d071da87e52c2c0a47d5084f82ecdb0.gif",
+        "https://i.pinimg.com/originals/ae/ec/60/aeec6024d4dfa68dfb033d0e1b28297f.gif",
+        "https://i.pinimg.com/originals/4f/cb/49/4fcb491013b4abbef0d512e4e1efc272.gif",
+        "https://i.pinimg.com/originals/52/29/99/522999d230782db971a681aa762e8e2d.gif",
+        "https://i.pinimg.com/originals/b3/96/22/b396223e11d9220ca4be08a283e1934f.gif",
+        "https://i.pinimg.com/originals/b8/ad/f3/b8adf3d377441b830cc487153c23ab08.gif",
+        "https://i.pinimg.com/originals/97/cd/f4/97cdf4bbd004319e363f3a454e7bde59.gif",
+        "https://www.conversadesofa.com/wp-content/uploads/2015/06/Mesa-de-Comando.gif",
+        "https://i.pinimg.com/originals/26/34/63/263463b82a418b513738121208531b73.gif",
+        "https://www.bm.edu.br/wp-content/uploads/2019/09/medo-e-nojinho.gif",
+        "https://s-media-cache-ak0.pinimg.com/originals/92/83/22/928322ff6a0909200a1f2088987226c6.gif",
+        "https://i1.wp.com/www.nerdsite.com.br/wp-content/uploads/2016/01/giphy.gif?fit=711%2C400&ssl=1",
+        "https://64.media.tumblr.com/e4c50fe67782772c8ae40ae687b7de68/tumblr_nq5uaiE2yC1qkk0zpo1_400.gifv",
+        "https://c.tenor.com/VylWt5lyjBoAAAAC/omg-yes.gif",
+        "https://i.pinimg.com/originals/96/34/c5/9634c520c9a3cd4e7f23190bb2c96500.gif"
+      ]
 }
